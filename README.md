@@ -3,6 +3,10 @@
 > cozycup cafe aims to be the premier purveyor of the finest coffee in the world, inspiring and nurturing the human spirit - *one person and one neighborhood at a time*.
 
 ## Features
+- **Home**
+- **Menu**
+- **About Us**
+- **Contact Us**
 
 ## Screen Captures
 
