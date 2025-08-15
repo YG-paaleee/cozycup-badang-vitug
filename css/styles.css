@@ -22,8 +22,18 @@ nav {
     align-items: center;
 }
 
+.logo {
+    display: flex;
+    align-items: center;
+}
+
 .logo img {
     max-width: 100px;
+}
+
+.logo h1 {
+    font-size: 1.8rem;
+    color: #4c3c32;
 }
 
 nav ul {

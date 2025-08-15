@@ -9,6 +9,9 @@
 - **Contact Us**
 
 ## Screen Captures
+<img src="img/sc1.png" width=500px>
+<img src="img/sc2.png" width=500px>
+<img src="img/sc3.png" width=500px>
 
 ## About the Authors
 <img src="https://avatars.githubusercontent.com/u/225259706?v=4"  style="border-radius: 50%" width=150>
